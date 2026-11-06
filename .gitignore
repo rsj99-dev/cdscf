@@ -1,0 +1,21 @@
+/target/
+
+# Local analysis output
+*.csv
+*.json
+
+# Local genomic data
+/*.dna
+/*.gb
+/*.gbff
+/*.gbk
+
+# Local documents and patent figures
+/*.docx
+/assets/patent/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
